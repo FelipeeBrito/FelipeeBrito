@@ -21,11 +21,6 @@
 
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/FelipeeBrito/FelipeeBrito/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 
 ### Thanks for visiting
