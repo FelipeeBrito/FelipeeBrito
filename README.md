@@ -21,6 +21,7 @@
 
 </div>
 
+![Snake animation](https://github.com/FelipeeBrito/FelipeeBrito/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Thanks for visiting
